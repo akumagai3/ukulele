@@ -1,0 +1,83 @@
+
+body{
+    margin:0;
+    padding:0;
+    font-family:arial, serif;
+    text-align: center;
+}
+.nav{
+    background:#3B945E;
+    color:#F2F2F2;
+    list-style:none;
+    text-align:center;
+    padding:20px 0 20px 0;
+}
+.nav > li{
+    display:inline-block;
+    padding-right:25px;
+}
+.nav > li > a{
+    text-decoration: none;
+    color:ffffff;
+}
+.nav > li > a:hover{
+    color:#65CCB8;
+}
+a{
+    color:black;
+    text-decoration:none;
+    font-size:18px;
+}
+a:hover{
+    font-size:20px;
+    color:#3b945e;
+}
+.main-head{
+    text-align: center;
+    font-family: verdana, serif
+    
+}
+.head{
+    color:#f2f2f2;
+    background-color: #57ba98;
+    text-align: center;
+    font-size:3em;
+}
+.song{
+    color:#3b945e;
+}
+
+.ukulele{
+    width:200px;
+}
+.chordp{
+    width:10em;
+    box-sizing: border-box;
+    margin:20px; 
+    
+}
+.lyrics{
+    padding:20px;
+    margin:2px;
+}
+.zeldap{
+    height:10em;
+}
+.section{
+    border:5px #65ccb8 solid;
+    padding-bottom:2em;
+    margin: 2em;
+}
+.zelda-lesson{
+    list-style: none;
+}
+.chords{
+    font-weight: bold;
+    font-size: 2em;
+    font-family: "Courier New", Courier, monospace;
+}
+.lyrics{
+    font-weight: bold;
+    font-size: 1em;
+    font-family: 'Montserrat', sans-serif;
+}
